@@ -1,5 +1,5 @@
 # -Vzz-Hub-
-The Vzz hub script is 100% brazilian and is very good 👍
+# The Vzz hub script is 100% brazilian and is very good 👍
 
 task.spawn(function()
     repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer
